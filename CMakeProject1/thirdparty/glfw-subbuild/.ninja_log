@@ -1,0 +1,21 @@
+# ninja log v6
+5	58	7899093861088877	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	a0efea6d01db21f5
+5	58	7899093861088877	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-mkdir	a0efea6d01db21f5
+59	5639	7899093916873570	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	628b89346c2ea3f6
+59	5639	7899093916873570	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-download	628b89346c2ea3f6
+5639	5774	7899093916955508	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	28b357f6ea2da12e
+5639	5774	7899093916955508	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-update	28b357f6ea2da12e
+5774	5828	7899093918788016	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	362e3fdd4b5a1a8d
+5774	5828	7899093918788016	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-patch	362e3fdd4b5a1a8d
+5828	5879	7899093919264801	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	e8a2498bb01e3ecd
+5828	5879	7899093919264801	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-configure	e8a2498bb01e3ecd
+5879	5931	7899093919812573	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	7a82606a4365bb0e
+5879	5931	7899093919812573	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-build	7a82606a4365bb0e
+5931	5983	7899093920254551	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	e049211b63adc76d
+5931	5983	7899093920254551	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-install	e049211b63adc76d
+5983	6032	7899093920812485	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	814bd47309ec0ca
+5983	6032	7899093920812485	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-test	814bd47309ec0ca
+6032	6102	7899093921498691	CMakeFiles/glfw-populate-complete	ca0464b3baa4af59
+6032	6102	7899093921498691	glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	ca0464b3baa4af59
+6032	6102	7899093921498691	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/CMakeFiles/glfw-populate-complete	ca0464b3baa4af59
+6032	6102	7899093921498691	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-subbuild/glfw-populate-prefix/src/glfw-populate-stamp/glfw-populate-done	ca0464b3baa4af59
