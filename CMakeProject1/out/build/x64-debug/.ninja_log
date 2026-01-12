@@ -1,11 +1,12 @@
 # ninja log v6
 25	490	7899093955299321	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/platform.c.obj	7221e0f94ed1603b
 46	504	7899093955557414	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	41b61934579f4d81
+493	826	7899093960035375	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj	5652c6bbd4dadba6
 35	514	7899093955441202	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/window.c.obj	e65203a1ae7c4a10
+61	548	7899093955697340	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj	57ded87967214612
 67	522	7899093955760983	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/null_joystick.c.obj	c1af7ab9be685e20
 21	532	7899093955299321	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/monitor.c.obj	1816ab53276bc361
 56	540	7899093955649320	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/null_monitor.c.obj	cd3d6cb407d3b6
-61	548	7899093955697340	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/null_window.c.obj	57ded87967214612
 30	555	7899093955403657	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/vulkan.c.obj	c4bd1827db117387
 51	564	7899093955598376	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/null_init.c.obj	d6761f79190f085c
 8	567	7899093955165836	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/context.c.obj	1bd9b1c2a476bf82
@@ -14,16 +15,13 @@
 72	577	7899093955760983	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_module.c.obj	52609b94710ef6e
 41	580	7899093955486897	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/egl_context.c.obj	de0baee764f64557
 504	821	7899093960127353	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_thread.c.obj	39045aa0e3e24794
-493	826	7899093960035375	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_time.c.obj	5652c6bbd4dadba6
 514	845	7899093960184248	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_init.c.obj	8101d05a8184a05d
 548	851	7899093960583260	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/wgl_context.c.obj	e494997d31268e42
-541	864	7899093960496358	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj	67486025db7648df
 523	869	7899093960324271	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	d9c1041a77e31e8
+541	864	7899093960496358	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_window.c.obj	67486025db7648df
 532	905	7899093960400167	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	967f15a35716559c
 905	953	7899093964135689	C:/Users/kaede/OneDrive/Desktop/Ccode/gdgrap1/CMakeProject1/thirdparty/glfw-build/src/glfw3.lib	568cdb7d0809a4ae
-556	1372	7899093960623646	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	7c68db44fdc6317a
-1372	1604	7899093968799570	CMakeProject1.exe	7b2bec499f98e870
-32	99	7899094194643139	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	7c68db44fdc6317a
-100	260	7899094195279450	CMakeProject1.exe	7b2bec499f98e870
 9	137	7899097675518211	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	7c68db44fdc6317a
 138	299	7899097676787218	CMakeProject1.exe	7b2bec499f98e870
+30	287	7899214106150001	CMakeFiles/CMakeProject1.dir/CMakeProject1.cpp.obj	7c68db44fdc6317a
+288	486	7899214108781163	CMakeProject1.exe	7b2bec499f98e870
